@@ -1,0 +1,5 @@
+name: StaffChat
+version: ${project.version}
+main: ${pluginPackage}.${pluginName}
+authors: [MatthewE]
+description: ${pluginName}
